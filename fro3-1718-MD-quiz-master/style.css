@@ -1,0 +1,52 @@
+body{
+  background-color: purple;
+}
+
+.wrapper{
+  background-color: white;
+  width: 400px;
+  height: 150px;
+  margin: auto;
+  text-align: center;
+}
+
+.questionBox{
+  background-color: yellow;
+}
+
+.myQuestion{
+  background-color: red;
+}
+
+.answerBox{
+  background-color: aliceblue;
+}
+
+.resultBox{
+  background-color: violet;
+  height: 50px;
+
+}
+
+li{
+  background-color: blue;
+  border-radius: 1px;
+  width: 320px;
+}
+
+li:hover{
+  background-color: yellow;
+  border-radius: 10px;
+
+}
+
+li {
+  list-style-type: none;
+}
+IMG{
+  width: 50px;
+  height: 30px;
+  margin-left: 10px;
+  margin-top: 100px;
+margin-right: 50px;
+}
